@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\Files\c++ programming\opengl\GLFW\transformations\main.cpp(35,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  transformations.vcxproj -> E:\Files\c++ programming\opengl\GLFW\transformations\x64\Debug\transformations.exe
